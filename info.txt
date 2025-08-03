@@ -1,0 +1,4 @@
+My name is Miqdad Otoom.
+My specialty is artificial intelligence
+I am learning Git and GitHub.
+
